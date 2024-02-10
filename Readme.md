@@ -1,4 +1,4 @@
-## Shake Alarm Clock: Privacy policy
+## TimeR: Privacy policy
 
 Welcome to the TimeR app for Android!
 
